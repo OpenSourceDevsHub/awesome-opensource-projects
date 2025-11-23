@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/welcome.svg" alt="Open Source Community Projects" width="600">
   
-  <img src="assets/project_name.svg" alt="Open Source Community Projects" width="600">
 
   <div> <br/></div>
 
