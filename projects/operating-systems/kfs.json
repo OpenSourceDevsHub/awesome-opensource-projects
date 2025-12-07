@@ -2,7 +2,7 @@
   "name": "KFS (Kernel From Scratch)",
   "url": "https://github.com/alkuzin/kfs",
   "description": "Simple monolithic Unix-like OS for x86-32",
-  "tech_stack": ["C++", "GAS", "CMake"],
+  "tech_stack": ["C++", "CMake"],
   "status": "Archived",
   "maintainer": "@alkuzin",
   "languages": ["C++"],
