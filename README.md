@@ -344,7 +344,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
   <p>
 
 
-  **Tech Stack**: C++, GAS, CMake
+  **Tech Stack**: C++, CMake
 
 
   **Status**: Archived
