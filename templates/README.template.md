@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/welcome.svg" alt="Open Source Community Projects" width="600">
   <h1>Awesome Open Source Projects</h1>
   <p>A curated collection of open source projects from our community members</p>
   
@@ -25,24 +24,14 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 ---
 
-## 📝 Add your project
+## 📝 How add your project
+Check contributing <a href="CONTRIBUTING.md"> Guide</a>
 
-<a href="CONTRIBUTING.md">Check contributing guide</a>
+
 
 ## Project Categories
 
 {{CATEGORY_CONTENT}}
-
-## 🤝 How to Contribute
-
-We welcome contributions from everyone! Here's how you can get involved:
-
-1. **Add Your Project**: See the [Add Your Project](#-add-your-project) section below.
-2. **Improve Documentation**: Help improve project documentation.
-3. **Report Issues**: Found a bug or have a suggestion? Open an issue!
-4. **Spread the Word**: Star the repository and share it with others.
-
-
 
 
 ## 📄 License

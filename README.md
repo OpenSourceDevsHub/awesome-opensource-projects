@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/welcome.svg" alt="Open Source Community Projects" width="600">
   <h1>Awesome Open Source Projects</h1>
   <p>A curated collection of open source projects from our community members</p>
   
@@ -34,13 +33,14 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 ---
 
-## 📝 Add your project
+## 📝 How add your project
+Check contributing <a href="CONTRIBUTING.md"> Guide</a>
 
-<a href="CONTRIBUTING.md">Check contributing guide</a>
+
 
 ## Project Categories
 
-<h3 id="terminal-cli"></h3>
+<h2 id="terminal-cli"></h2>
 
 <details open>
 
@@ -135,7 +135,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="web-applications"></h3>
+<h2 id="web-applications"></h2>
 
 <details open>
 
@@ -224,7 +224,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="web-frameworks"></h3>
+<h2 id="web-frameworks"></h2>
 
 <details open>
 
@@ -289,7 +289,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="devops"></h3>
+<h2 id="devops"></h2>
 
 <details open>
 
@@ -327,7 +327,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="operating-systems"></h3>
+<h2 id="operating-systems"></h2>
 
 <details open>
 
@@ -392,7 +392,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="management"></h3>
+<h2 id="management"></h2>
 
 <details open>
 
@@ -430,7 +430,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="package-management"></h3>
+<h2 id="package-management"></h2>
 
 <details open>
 
@@ -468,7 +468,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="testing"></h3>
+<h2 id="testing"></h2>
 
 <details open>
 
@@ -506,7 +506,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="text-processing"></h3>
+<h2 id="text-processing"></h2>
 
 <details open>
 
@@ -544,7 +544,7 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 
 <hr />
 
-<h3 id="vpn"></h3>
+<h2 id="vpn"></h2>
 
 <details open>
 
@@ -581,17 +581,6 @@ Welcome to the official collection of projects from the [Опенсорсеры 
 </details>
 
 <hr />
-
-
-## 🤝 How to Contribute
-
-We welcome contributions from everyone! Here's how you can get involved:
-
-1. **Add Your Project**: See the [Add Your Project](#-add-your-project) section below.
-2. **Improve Documentation**: Help improve project documentation.
-3. **Report Issues**: Found a bug or have a suggestion? Open an issue!
-4. **Spread the Word**: Star the repository and share it with others.
-
 
 
 
