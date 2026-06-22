@@ -1,0 +1,14 @@
+{
+  "name": "UnfoldCMS",
+  "url": "https://github.com/hpakdaman/unfoldcms",
+  "description": "Self-hosted Laravel 12 + React 19 CMS with built-in blog, headless REST API v1, and admin panel.",
+  "tech_stack": ["PHP", "Laravel", "React", "TypeScript", "MySQL"],
+  "status": "Active",
+  "category": "web-applications",
+  "contribution": "Open for contributors",
+  "links": {
+    "GitHub": "https://github.com/hpakdaman/unfoldcms",
+    "Website": "https://unfoldcms.com",
+    "Docs": "https://unfoldcms.com/docs"
+  }
+}
