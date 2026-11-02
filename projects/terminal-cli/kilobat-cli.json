@@ -1,0 +1,15 @@
+{
+  "name": "Kilobat CLI",
+  "url": "https://github.com/seifip/kilobat-cli",
+  "description": "GPL-3.0-only macOS CLI/TUI for connection and DNS diagnostics, JSON output and local MCP; some features need the separate proprietary companion.",
+  "tech_stack": [
+    "Swift"
+  ],
+  "status": "Active",
+  "category": "terminal-cli",
+  "links": {
+    "GitHub": "https://github.com/seifip/kilobat-cli",
+    "Docs": "https://github.com/seifip/kilobat-cli#readme"
+  },
+  "image": "https://raw.githubusercontent.com/seifip/My-Awesome-TUIs/ed9345eced49c53f63bba348f74acf7bedb78b4b/imgs/Kilobat-CLI.gif"
+}
